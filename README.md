@@ -1,13 +1,15 @@
 # BadOS
 Fun BadUSB scripts for iOS! 
-
+ㅤ
+ㅤ
 More TOOLs for iOS instead of boring scripts like opeing a website and thats it. pretty boring
-
-(REMINDER THESE ARE NOT PERFECT SCRIPTS MAY NEED TO REDO SOME FOR THEM TO WORK)
-
+ㅤ
+ㅤ
 but with some of these scripts you can get more BLUETOOTH keyboard access!
-
-such as:
+ㅤ
+ㅤ
+such as: 
+ㅤ
 ㅤ
 ㅤ
 The "Caught in 4k" Script
@@ -60,8 +62,8 @@ Description : Opens up Messages and types to whoever was last texted
 The "OMFGDOGS" Script
 
 Description : Opens a link to some cute pixel dogs
-
-
+ㅤ
+ㅤ
 
 (REMINDER THESE ARE NOT PERFECT SCRIPTS MAY NEED TO REDO SOME FOR THEM TO WORK)
 
