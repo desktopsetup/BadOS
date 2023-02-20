@@ -13,7 +13,7 @@ such as :
 ㅤ
 
 The "Caught in 4k" Script
-ㅤ
+
 Description : Opens up a sepcific link and screenshots what your looking at :)
 ㅤ
 
