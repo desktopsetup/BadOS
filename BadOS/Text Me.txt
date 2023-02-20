@@ -1,0 +1,20 @@
+REM text someone in there messges 
+GUI h
+DELAY 150
+GUI SPACE 
+DELAY 500
+STRING Messages
+DELAY 250
+ENTER
+DELAY 250
+GUI l
+DELAY 1200
+STRING ayoooooooooooooo
+DELAY 900
+ENTER
+STRING gimme your name and last name
+DELAY 350
+TAB
+DELAY 200
+ENTER
+REM text someone in there messges 
