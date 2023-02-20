@@ -1,10 +1,11 @@
 # BadOS
 Fun BadUSB scripts for iOS! 
+
 ㅤ
-ㅤ
+
 More TOOLs for iOS instead of boring scripts like opeing a website and thats it. pretty boring
 ㅤ
-ㅤ
+
 but with some of these scripts you can get more BLUETOOTH keyboard access!
 
 ㅤ
