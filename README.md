@@ -8,11 +8,12 @@ More TOOLs for iOS instead of boring scripts like opeing a website and thats it.
 but with some of these scripts you can get more BLUETOOTH keyboard access!
 ㅤ
 ㅤ
-such as: 
+such as :
+
 ㅤ
-ㅤ
-ㅤ
+
 The "Caught in 4k" Script
+ㅤ
 Description : Opens up a sepcific link and screenshots what your looking at :)
 ㅤ
 
