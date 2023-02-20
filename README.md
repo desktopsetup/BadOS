@@ -1,12 +1,17 @@
 # BadOS
-Fun BadUSB scripts for iOS! 
+Fun BadUSB scripts for iOS! Tested with BadBLE!
 
 ㅤ
 
-More TOOLs for iOS, instead of boring scripts like opeing a website and thats it. 
+More Custom script TOOLs for iOS, instead of those boring basic scripts like opeing a website then inserts a URL. 
 ㅤ
 
-but with some of these scripts you can get more BLUETOOTH keyboard access!
+But with some of these scripts you can get more keyboard access! 
+
+ㅤ
+
+If YOU make some custom Scripts from BadOS id like to know, cause I would love to add more BadOS scripts based off the Flipper Community! if you can my discord is "wiskey#0708"
+Im also on the offical FlipperZero Discord server where if you want id like to see some.
 
 ㅤ
 
