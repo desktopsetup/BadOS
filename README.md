@@ -22,7 +22,7 @@ Description : Opens up a sepcific link and screenshots what your looking at :)
 
 The "Discord Spam" Script
 
-Description : Automatically types out a certain text and sends it quickly
+Description : Automatically types out a certain text and sends it quickly (works with more apps besides discord
 
 ㅤ
 
