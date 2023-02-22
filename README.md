@@ -20,7 +20,7 @@ Description : Opens up a sepcific link and screenshots what your looking at :)
 
 ㅤ
 
-The "LRSwiper" Script
+The "RLSWIPER" Script
 
 Description : Goes through the device and check out everything (is not perfect)
 
