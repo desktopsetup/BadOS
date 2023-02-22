@@ -1,4 +1,4 @@
-REM dog
+REM doggys
 GUI h
 DELAY 150
 GUI SPACE
@@ -15,4 +15,4 @@ DELAY 800
 ENTER
 DELAY 500
 SPACE
-REM dog
+REM doggys
