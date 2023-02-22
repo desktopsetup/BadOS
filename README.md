@@ -20,7 +20,7 @@ Description : Opens up a sepcific link and screenshots what your looking at :)
 
 ㅤ
 
-The "Discord Spam" Script
+The "Text Spammer" Script
 
 Description : Automatically types out a certain text and sends it quickly (works with more apps besides discord
 
@@ -32,7 +32,7 @@ Description : types out a long paragraph about ducks
 
 ㅤ
 
-The "LR Swiper" Script
+The "LRSwiper" Script
 
 Description : Goes through the device and check out everything (is not perfect)
 
@@ -40,7 +40,7 @@ Description : Goes through the device and check out everything (is not perfect)
 
 The "My Last Picture" Script
 
-Description : Crashes the screen with a bunch of pictures (reboots itself if not turned off)
+Description : Crashes the screen with a bunch of pictures (may reboots itself, may depend on the device)
 
 ㅤ
 
@@ -50,7 +50,7 @@ Description : DELTES 100+ TABS USE WISELY
 
 ㅤ
 
-The "Tab FLoader" Script
+The "Tab Flooder" Script
 
 Description : SPAMS OVER 100+ TABS USE WISELY 
 
