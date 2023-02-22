@@ -1,4 +1,4 @@
-REM Catch someone in the act ;)
+REM Catch someone in the act or aka 4k ;)
 GUI h
 DELAY 150
 GUI SPACE
@@ -20,4 +20,4 @@ DELAY 125
 GUI-SHIFT 4
 DELAY 200
 GUI h
-REM Catch someone in the act ;)
+REM Catch someone in the act or aka 4k ;)
