@@ -20,18 +20,6 @@ Description : Opens up a sepcific link and screenshots what your looking at :)
 
 ㅤ
 
-The "Text Spammer" Script
-
-Description : Automatically types out a certain text and sends it quickly (works with more apps besides discord
-
-ㅤ
-
-The "DUCKs" Script
-
-Description : types out a long paragraph about ducks
-
-ㅤ
-
 The "LRSwiper" Script
 
 Description : Goes through the device and check out everything (is not perfect)
@@ -62,9 +50,9 @@ Description : Opens up Messages and types to whoever was last texted
 
 ㅤㅤ
 
-The "OMFGDOGS" Script
+The "Tab Viewer" Script
 
-Description : Opens a link to some cute pixel dogs
+Description : goes through your tabs 1-9 and check them out (May need to adjust Delay depending on internet speed)
 ㅤ
 ㅤ
 
