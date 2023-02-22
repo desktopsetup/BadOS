@@ -1,0 +1,9 @@
+REM Changes last songs on spotify
+UP ARROW
+DELAY 500
+GUI LEFT ARROW
+DELAY 1400
+TAB
+DELAY 500
+GUI RIGHT ARROW
+REM Changes last songs on spotify

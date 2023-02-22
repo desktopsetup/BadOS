@@ -1,0 +1,9 @@
+REM Selects Safari and text boxes
+GUI a
+DELAY 600
+GUI n
+DELAY 600
+UP ARROW
+GUI s
+DELAY 900
+REM Selects Safari and text boxes
