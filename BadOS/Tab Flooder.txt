@@ -1,7 +1,7 @@
-REM floads tabs
+REM floods tabs
 GUI 1
 DELAY 300
 GUI n
 GUI t
 REPEAT 100
-REM floads tabs
+REM floods tabs
