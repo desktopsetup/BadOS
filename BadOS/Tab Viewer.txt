@@ -1,4 +1,4 @@
-REM View the last 9 tabs of someone search engine
+REM View the last 9 tabs of someone search engine (Edit the 3999 delay depending on your internet speed)
 GUI h
 DELAY 200
 GUI SPACE
@@ -70,4 +70,4 @@ DELAY 300
 DOWN ARROW 
 DELAY 300 
 DOWN ARROW 
-REM View the last 9 tabs of someone search engine 
+REM View the last 9 tabs of someone search engine (Edit the 3999 delay depending on your internet speed)
