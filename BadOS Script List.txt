@@ -35,8 +35,6 @@ SHIFT-GUI \
 REM should be Tab overview
 
 
-
-
 NON Specific Commands For BadOS
 
 GUI RIGHT ARROW
@@ -62,8 +60,6 @@ GUI s
 REM Siri
 
 
-
-
 Note Commands for BadOS
 
 GUI n
@@ -78,7 +74,6 @@ GUI 1
 GUI 2
 GUI 3
 REM views notes different styles
-
 
 
 
