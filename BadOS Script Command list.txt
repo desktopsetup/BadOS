@@ -138,14 +138,11 @@ REM connect to a server
 Mail commands for BadOS
 
 GUI n
-REM create new message
-DELAY 800 
+REM create new mail
 GUI-SHIFT n 
-REM should select mail
-DELAY 800 
+REM should select mail 
 GUI 1 
-REM opens inbox
-DELAY 800 
+REM opens inbox 
 GUI 2 
 REM Opens Vip box
 
