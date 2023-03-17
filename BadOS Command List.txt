@@ -2,8 +2,6 @@
 
 Safari Command List For BadOS
 
-GUI r
-REM Should Reload page
 GUI 1
 GUI 2
 GUI 3
