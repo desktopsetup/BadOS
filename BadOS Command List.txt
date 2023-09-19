@@ -44,7 +44,8 @@ GUI h
 REM home button
 GUI SPACE
 REM Search Bar
-
+GUI-SHIFT 4
+REM will take a screenshot
 
 Note Commands for BadOS
 
