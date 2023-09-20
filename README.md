@@ -1,5 +1,5 @@
 # BadOS
-Fun BadUSB scripts for iOS! Tested with BadBLE Made for the Flipper Zero!
+Fun BadUSB scripts for iOS! Tested with BadBT Made for the Flipper Zero!
 
 ㅤ
 
@@ -28,19 +28,19 @@ Description : Goes through the device and check out everything (is not perfect)
 
 The "My Last Picture" Script
 
-Description : Crashes the screen with a bunch of pictures (may reboots itself, may depend on the device)
+Description : Crashes the screen with a bunch of pictures (may reboots itself, may depend on the device) USE WISELY!
 
 ㅤ
 
 The "Not MY TABS" Script
 
-Description : DELTES 100+ TABS USE WISELY 
+Description : DELTES 100+ TABS USE WISELY!
 
 ㅤ
 
 The "Tab Flooder" Script
 
-Description : SPAMS OVER 100+ TABS USE WISELY 
+Description : SPAMS OVER 100+ TABS USE WISELY!
 
 ㅤ
 
