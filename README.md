@@ -64,5 +64,5 @@ Description : goes through your tabs 1-9 and check them out (May need to adjust 
 ㅤ
 
 If YOU make some custom Scripts from BadOS id like to know, cause I would love to add more BadOS scripts based off the Flipper Community! 
-if you can my discord is "wiskey#0708"
+if you can my discord is "desktopsetup"
 Im also on the offical FlipperZero Discord server where if you want id like to see some.
