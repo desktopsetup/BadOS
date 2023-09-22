@@ -35,7 +35,12 @@ NON Specific Commands For BadOS
 
 GUI RIGHT ARROW
 GUI LEFT ARROW
-REM Goes Next Selection
+REM swipe Next Selection
+RIGHT ARROW
+LEFT ARROW
+UP ARROW
+DOWN ARROW
+REM Arrow key navigation
 GUI l
 REM opens the ui of the text box
 GUI TAB
